@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    flex-wrap: nowrap;
+}
+header img{
+    height: 50px;
+    width: 50px;
+}
+main section img{
+    height: 100px;
+    width: 250px;
+}
+#m{
+    display: flex;
+    flex-wrap: nowrap;
+}
+#m aside{
+    margin-left: 15%;
+    padding: 0px;
+}
+#m aside ul {
+    list-style: none;
+}
+.separator{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+#formular{
+    display: flex;
+    flex-wrap: wrap;
+}
+#formular button{
+    margin-left: 5px;
+}
