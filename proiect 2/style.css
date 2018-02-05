@@ -1,0 +1,254 @@
+h1,h2,h3,h4,h5,h6,p {font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+h3{
+    padding: 0px;
+    margin: 0px 0px 0px 5px;
+    color: white;
+    border: none;
+}
+body{min-width: 320px;
+    background: #f9f9f9;
+}
+
+header,nav {
+    height: auto; 
+    width: CALC(100% - 2px);
+    background: #d94e44;
+    margin: 0px;
+}
+
+header div,nav div, nav,.container-flex, footer{
+    display: flex; 
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+}
+button{
+    
+    border: 1px solid #db4d3f;
+    background: white;
+}
+form{
+    max-width: 1000px ;
+    width: Calc(100%-2px);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+}
+
+nav{
+    background:  white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d6d4d4;
+}
+
+nav div{
+    height: auto; 
+    width: CALC(50% - 4px);
+    
+}
+nav div button {
+    width: 100%;
+    text-decoration: none;
+    background: white;
+    box-shadow: none;
+    border:none;
+    padding: 0.7%;
+    max-height: 35px; 
+}
+nav div p{
+    padding: 0px;
+    margin: 0px 0px 0px 5px;
+    border: none;
+    color: #db4d3f;
+    
+}
+
+#cutlery{
+    color:white;
+    margin: auto 0px auto 0px;
+}
+
+#plus{
+    color:#db4d3f;
+    margin: auto 0px auto 0px;
+}
+
+
+#needborder{
+    border-right: 1px solid #d6d4d4;
+    margin-right: 3px;
+}
+
+select{
+    background: transparent;
+    background-image: none;
+    
+    border: 1px solid #d6d4d4;
+    border-radius: 8px;
+    box-shadow: 0px 1px 3px #d6d4d4;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#section-awesome-fonts{
+    color:white;
+    margin: auto 0px auto 0px;
+}
+
+main{
+    width: CALC(100% - 2px);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;   
+}
+
+section{
+    margin-top: 2%;
+}
+
+
+section div p{
+    padding: 0px;
+    margin: 0px 0px 0px 2px;
+    color: white;
+    border: none;
+    display: inline;
+    
+}
+
+.bg-title{
+    background: #db4d3f;
+    padding: 0.3%;
+    padding-left: 1%;
+    
+}
+.bg-interior{
+    background: #f6f4f4;
+    padding-top: 0.7%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1.7%;
+   
+    
+}
+
+textarea,#input-title{
+    width: calc(99% - 2px);
+    padding: 0.5%;
+    border-radius: 3px;
+    border: 1px solid #d6d4d4;
+    
+
+}
+#ptd{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+#ptd h5{display: inline;}
+
+
+#angle{
+    color:#db4d3f;
+}
+
+#ingredients-top-section{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#ingredients-top-section h6{
+    color: black;
+    display: inline;
+    
+}
+
+#qt{
+    height: auto;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+
+
+
+
+#qt h6{
+    color: black;
+    display: inline;
+    
+}
+#qt input{
+    padding: 0.7%;
+    border-radius: 3px;
+    border: 1px solid #d6d4d4;
+}
+#qty{
+    max-width: 60px;
+    min-width: 30px;
+    
+}
+#ing{
+    max-width: 300px;
+    min-width: 50px;
+}
+
+@media (max-width: 600px) {
+  #invisible {
+    display: none;
+  }
+}
+ol li p {
+    color: black;
+}
+
+#add-step{
+    width: 100%;
+    text-decoration: none;
+    background: white;
+    box-shadow: none;
+    border-radius: 2px;
+    padding: 0.7%;
+}
+#add-step p, footer p{
+    color:#db4d3f;
+    display: inline;
+}
+
+footer button{
+    flex-basis: 50%;
+    box-shadow: none;
+    border-radius: 2px;
+    padding: 0.7%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+#save{
+    color: white;
+}
+#submit{
+     background: #db4d3f;
+}
+#submit p{
+    color: white;
+   
+    display: inline;
+}
+
+
+
+
+
