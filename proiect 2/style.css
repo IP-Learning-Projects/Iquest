@@ -31,7 +31,7 @@ button{
 }
 form{
     max-width: 1000px ;
-    width: Calc(100%-2px);
+    width: Calc(100% - 2px);
     display: flex;
     justify-content: center;
     flex-direction: row;
