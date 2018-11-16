@@ -1,0 +1,10 @@
+https://learn.adafruit.com/rgb-lcd-shield/using-the-rgb-lcd-shield
+https://store.arduino.cc/arduino-mega-2560-rev3
+https://www.arduino.cc/en/Reference/Ethernet
+https://www.arduino.cc/en/Tutorial/ChatServer
+https://www.arduino.cc/en/Main/ArduinoEthernetShieldV1
+https://www.instructables.com/id/How-to-Use-the-Sharp-IR-Sensor-GP2Y0A41SK0F-Arduin/
+https://codebender.cc/sketch:315224#Sharp%20IR%20GP2Y0A41SK0F%20Distance%20Test.ino
+https://www.instructables.com/id/Arduino-Temperature-Sensor-Using-LM35/
+https://pastebin.com/ss81mSwT
+https://www.brainy-bits.com/card-reader-with-an-arduino-rfid-using-the-rc522-module/
